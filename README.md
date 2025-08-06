@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Web Application (with AI)
+# Tic-Tac-Toe Web Application
 
 This is a responsive web-based Tic-Tac-Toe game developed using HTML, CSS, and JavaScript. The application allows a user to play as **Player X** against a simple AI opponent playing as **Player O**.
 
