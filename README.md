@@ -2,6 +2,12 @@
 
 This is a responsive web-based Tic-Tac-Toe game developed using HTML, CSS, and JavaScript. The application allows a user to play as **Player X** against a simple AI opponent playing as **Player O**.
 
+## Screenshots
+
+<img width="1920" height="1080" alt="Screenshot (75)" src="https://github.com/user-attachments/assets/f0fb7e96-f05a-4a08-8905-93db80e2da22" />
+
+<img width="1920" height="1080" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/959bdf39-28d3-4fcb-855c-639b5fadb103" />
+
 ## Features
 
 - Interactive 3x3 Tic-Tac-Toe grid
